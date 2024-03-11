@@ -6,6 +6,6 @@ Apparently permissions on the [base mod](https://www.nexusmods.com/skyrimspecial
 * allows user to control quest startup, not just the first time you go to sleep
 
 Current version patch:
-* updates strings in scripts to be in English
+* move localizable strings from script to plugin to simplify creation of translations
 * allows user to control quest startup, not just the first time you go to sleep
 
